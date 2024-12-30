@@ -31,3 +31,11 @@ El MACD se basa en la diferencia entre dos medias móviles exponenciales (EMA) d
 
 ### En resumen
 El MACD es una herramienta poderosa para los traders, pero no debe utilizarse de forma aislada. Es recomendable combinarlo con otros indicadores y análisis fundamentales para tomar decisiones de inversión más informadas.
+
+### Opinion de allegados que viven del trading:
+No cren que solo este indicador sea un eficaz por ella sola por:
+  * Las entradas probables con este indicador son muy poco seguras
+  * Aunque es fiable por el uso del historial de precio, se nesecita algun otro indicador para determinar las entradas correctamente
+
+## Versiones:
+### Version 1:
