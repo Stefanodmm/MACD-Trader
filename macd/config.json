@@ -1,0 +1,6 @@
+{
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "limit": 100,
+    "sleep_time": 5
+}
