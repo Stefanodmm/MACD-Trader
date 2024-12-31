@@ -40,3 +40,5 @@ No cren que solo este indicador sea un eficaz por ella sola por:
 ## Versiones:
 ### Version 1:
 * Contiene la señal del macd
+### Version 2
+* ya con guardado de m,ovimientos y espera entre movimientos 
